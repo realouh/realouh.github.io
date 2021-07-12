@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>bmi calculator</title>
+    <link rel="stylesheet" href="style1.css" />
+  </head>
+  <body>
+    <h2 id="bmi-txt"><big>please put information</big></h2>
+    <img
+      src="bmi-concept-all-shapes.jpg"
+      alt="bmi-concept-body-shapes"
+      width="600px"
+      id="bmi-C"
+    />
+    <img src="red-arrow.png" alt="red arrow" id="red-arrow" width="75px" />
+    <button id="Formula" onclick="FormulaChanger()">Formula</button>
+    <input
+      type="number"
+      placeholder="height in(m)"
+      id="hight"
+      class="calcBMI"
+    />
+    <input
+      type="number"
+      placeholder="weight in(kg)"
+      id="weight"
+      class="calcBMI"
+    />
+    <input type="number" placeholder="BMI" id="BMI" class="calcBMI" />
+    <button id="calc-btn" class="calcBMI" onclick="calcBMI()">calculate</button>
+    <a href="index1.html"
+      ><button class="otherGames" id="calc">calculator</button></a
+    >
+    <a href="index3.html"
+      ><button class="otherGames" id="RPS">Rock Paper Scissors</button></a
+    >
+    <p id="src">sources</p>
+    <p id="imp">
+      <big
+        >BMI is not used for muscle builders, long distance athletes, pregnant
+        women, the elderly or young children. <br />
+        This is because BMI does not take into account whether the weight is
+        carried as muscle or fat, just the <br />
+        number. Those with a higher muscle mass, such as athletes, may have a
+        high BMI but not be at greater <br />
+        health risk. Those with a lower muscle mass, such as children who have
+        not completed their growth or the <br />
+        elderly who may be losing some muscle mass may have a lower BMI. During
+        pregnancy and lactation, a <br />
+        woman's body composition changes, so using BMI is not appropriate.</big
+      >
+    </p>
+    <script src="index.js"></script>
+  </body>
+</html>

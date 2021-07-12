@@ -1,0 +1,338 @@
+@media screen and (max-height: 768px) {
+  /*The following CSS runs only for displays with a width (in pixels) of more than 800px*/
+  img {
+    position: absolute;
+    border-radius: 6.8%;
+    height: 620px;
+    width: 380px;
+    top: 20%;
+    left: 39%;
+  }
+
+  button {
+    border-radius: 50px;
+    border: none;
+  }
+  .Nu {
+    font-size: 64.5px;
+    position: absolute;
+    padding: 13px;
+    background-color: gray;
+    color: white;
+  }
+  .Calc {
+    font-size: 64.5px;
+    position: absolute;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: orange;
+    color: black;
+    color: white;
+  }
+  #result {
+    font-family: "digital-clock-font";
+    text-align: left;
+    font-size: 44.5px;
+    position: absolute;
+    top: 5%;
+    left: 38%;
+    width: 210px;
+    padding-left: 7px;
+    padding-top: 8px;
+    padding-bottom: 20px;
+    background-color: rgb(98, 114, 24);
+    border-radius: 20%;
+  }
+  #on {
+    top: 56%;
+    left: 38.6%;
+  }
+  #tw {
+    top: 56%;
+    left: 43.9%;
+  }
+  #th {
+    top: 56%;
+    left: 49.1%;
+  }
+  #fo {
+    top: 41.5%;
+    left: 38.6%;
+  }
+  #fi {
+    top: 41.5%;
+    left: 43.9%;
+  }
+  #si {
+    top: 41.5%;
+    left: 49.1%;
+  }
+  #se {
+    top: 27%;
+    left: 38.6%;
+  }
+  #ea {
+    top: 27%;
+    left: 43.9%;
+  }
+  #ni {
+    top: 27%;
+    left: 49.1%;
+  }
+
+  #PE {
+    top: 40%;
+    right: 41.4%;
+  }
+  #ME {
+    top: 16%;
+    right: 41.4%;
+    padding-left: 17.5px;
+    padding-right: 17.5px;
+  }
+  #MU {
+    text-align: center;
+    top: 28%;
+    right: 41.4%;
+    padding-left: 12.5px;
+    padding-right: 12.5px;
+  }
+  #BY {
+    top: 52%;
+    right: 41.4%;
+    padding-left: 10.5px;
+    padding-right: 10.5px;
+  }
+  #EQ {
+    font-size: 29px;
+    top: 64%;
+    right: 41.4%;
+    padding-left: 19px;
+    padding-right: 19px;
+    padding-top: 45px;
+    padding-bottom: 49px;
+  }
+  #AC {
+    font-size: 20px;
+    padding: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    position: absolute;
+    top: 19.5%;
+    right: 57.3%;
+    background-color: orange;
+    border: none;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  #ze {
+    left: 38%;
+    top: 72%;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+  #per {
+    font-size: 30px;
+    top: 19.8%;
+    left: 49.8%;
+    color: black;
+  }
+  #me {
+    font-size: 30px;
+    top: 19.8%;
+    left: 44%;
+    color: black;
+  }
+  #C {
+    top: 7%;
+    font-size: 40px;
+    padding: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: red;
+    left: 55%;
+    color: black;
+  }
+  #ke {
+    font-size: 40px;
+    padding-left: 18px;
+    padding-top: 8px;
+    padding-bottom: 15px;
+    padding-right: 18px;
+    background-color: gray;
+    top: 72%;
+    left: 50%;
+  }
+}
+
+@media screen and (min-width: 1920px) {
+  /*The following CSS runs only for displays with a width (in pixels) of less than 800px*/
+
+  img {
+    position: absolute;
+    border-radius: 6.8%;
+    height: 620px;
+    width: 380px;
+    top: 20%;
+    left: 39%;
+  }
+
+  button {
+    border-radius: 50px;
+    border: none;
+  }
+  .Nu {
+    font-size: 64.5px;
+    position: absolute;
+    padding: 15px;
+    background-color: gray;
+    color: white;
+  }
+  .Calc {
+    font-size: 64.5px;
+    position: absolute;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: orange;
+    color: black;
+    color: white;
+  }
+  #result {
+    font-family: "Orbitron";
+    text-align: left;
+    font-size: 44.5px;
+    position: absolute;
+    top: 24%;
+    left: 39.6%;
+    width: 210px;
+    padding-left: 48px;
+    padding-top: 8px;
+    padding-bottom: 15px;
+    background-color: rgb(98, 114, 24);
+    border-radius: 20%;
+  }
+  #on {
+    top: 65%;
+    left: 39.6%;
+  }
+  #tw {
+    top: 65%;
+    left: 44.6%;
+  }
+  #th {
+    top: 65%;
+    left: 49.4%;
+  }
+  #fo {
+    top: 52.5%;
+    left: 39.6%;
+  }
+  #fi {
+    top: 52.5%;
+    left: 44.6%;
+  }
+  #si {
+    top: 52.5%;
+    left: 49.4%;
+  }
+  #se {
+    top: 40%;
+    left: 39.6%;
+  }
+  #ea {
+    top: 40%;
+    left: 44.6%;
+  }
+  #ni {
+    top: 40%;
+    left: 49.4%;
+  }
+
+  #PE {
+    top: 35%;
+    right: 43.4%;
+  }
+  #ME {
+    top: 44%;
+    right: 43.4%;
+    padding-left: 17.5px;
+    padding-right: 17.5px;
+  }
+  #MU {
+    text-align: center;
+    top: 53%;
+    right: 43.4%;
+    padding-left: 12.5px;
+    padding-right: 12.5px;
+  }
+  #BY {
+    top: 62%;
+    right: 43.4%;
+    padding-left: 10.5px;
+    padding-right: 10.5px;
+  }
+  #EQ {
+    font-size: 29px;
+    top: 71.5%;
+    right: 43.4%;
+    padding-left: 19px;
+    padding-right: 19px;
+    padding-top: 45px;
+    padding-bottom: 49px;
+  }
+  #AC {
+    font-size: 20px;
+    padding: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    position: absolute;
+    top: 34.5%;
+    right: 57.3%;
+    background-color: orange;
+    border: none;
+    padding-right: 15px;
+    padding-left: 15px;
+  }
+  #ze {
+    left: 40%;
+    top: 77%;
+    padding-bottom: 0px;
+    padding-top: 0px;
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+  #per {
+    font-size: 30px;
+    top: 34.8%;
+    left: 49.8%;
+    color: black;
+  }
+  #me {
+    font-size: 30px;
+    top: 34.8%;
+    left: 44.8%;
+    color: black;
+  }
+  #C {
+    top: 27%;
+    font-size: 40px;
+    padding: 10px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    background-color: red;
+    left: 54%;
+    color: black;
+  }
+  #ke {
+    font-size: 40px;
+    padding-left: 18px;
+    padding-top: 8px;
+    padding-bottom: 15px;
+    padding-right: 18px;
+    background-color: gray;
+    top: 77%;
+    left: 49.8%;
+  }
+}

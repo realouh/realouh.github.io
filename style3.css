@@ -1,0 +1,144 @@
+img {
+  height: 270px;
+  font-size: 3em;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "arial";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+  visibility: hidden;
+}
+#imgP {
+  height: 270px;
+  font-size: 3em;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "arial";
+  position: absolute;
+  top: 50%;
+  left: 52%;
+  transform: translateX(-50%) translateY(-50%);
+  visibility: hidden;
+}
+#scoreP {
+  font-size: larger;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "arial";
+  position: absolute;
+  top: 5%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+h1 {
+  font-size: 3em;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "arial";
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+#restart {
+  font-size: 2em;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "arial";
+}
+.mainbtn {
+  font-size: 5em;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "arial";
+  position: absolute;
+  top: 80%;
+  transform: translateX(-50%) translateY(-50%);
+}
+#btn {
+  left: 10%;
+}
+#Rock {
+  left: 40%;
+}
+#Paper {
+  left: 50%;
+}
+#Scissors {
+  left: 60%;
+}
+#scoreman {
+  font-size: larger;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "arial";
+  position: absolute;
+  top: 9%;
+  left: 48%;
+  transform: translateX(-50%) translateY(-50%);
+}
+#scorecomp {
+  font-size: larger;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "arial";
+  position: absolute;
+  top: 9%;
+  left: 52%;
+  transform: translateX(-50%) translateY(-50%);
+}
+#me {
+  font-size: larger;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "arial";
+  position: absolute;
+  top: 9%;
+  left: 46%;
+  transform: translateX(-50%) translateY(-50%);
+}
+#comp {
+  font-size: larger;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "arial";
+  position: absolute;
+  top: 9%;
+  left: 56%;
+  transform: translateX(-50%) translateY(-50%);
+}
+
+.trys {
+  font-size: 5em;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: "arial";
+  position: absolute;
+  top: 50%;
+  transform: translateX(-50%) translateY(-50%);
+}
+#t1 {
+  left: 20%;
+}
+#t3 {
+  left: 50%;
+}
+#t5 {
+  left: 80%;
+}
+button {
+  border-radius: 12px;
+}

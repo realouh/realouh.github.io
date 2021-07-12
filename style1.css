@@ -1,0 +1,67 @@
+.calcBMI {
+  position: absolute;
+  padding: 6px;
+}
+#bmi-C {
+  max-width: 600px;
+  position: absolute;
+  top: 86%;
+  left: 35%;
+}
+#hight {
+  top: 48%;
+  left: 44%;
+  padding: 16px;
+}
+#weight {
+  top: 55%;
+  left: 44%;
+  padding: 16px;
+}
+#BMI {
+  top: 68%;
+  left: 44%;
+  padding: 16px;
+}
+#calc-btn {
+  top: 62%;
+  left: 44%;
+  padding: 13px;
+}
+#red-arrow {
+  max-width: 600px;
+  position: absolute;
+  top: 140%;
+  left: 38.5%;
+}
+.otherGames {
+  position: absolute;
+  top: 0%;
+  right: 0.3%;
+  padding: 3px;
+}
+#RPS {
+  right: 4.5%;
+}
+#bmi-txt {
+  position: absolute;
+  top: 20%;
+  left: 42%;
+}
+#Formula {
+  position: absolute;
+  top: 62%;
+  left: 50%;
+  padding: 13px;
+}
+#src {
+  position: absolute;
+  top: 200%;
+}
+#imp {
+  font-size: 20px;
+  position: absolute;
+  left: 24%;
+  top: 160%;
+  text-align: center;
+}
